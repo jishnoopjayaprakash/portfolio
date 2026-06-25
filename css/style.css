@@ -223,6 +223,25 @@ h2::after {
   box-shadow: 0 0 0 3px rgba(0,112,243,0.1);
 }
 
+/* Contact Info */
+.contact-info {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 1.05rem;
+  color: #444;
+  line-height: 2;
+}
+
+.contact-info a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
 /* Footer */
 footer {
   text-align: center;
